@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116117945763",
+    "project_id": "trizzled-movies",
+    "storage_bucket": "trizzled-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116117945763:android:4ab4946460c8568afc2e16",
+        "android_client_info": {
+          "package_name": "com.example.trizzled_movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhQzHDekru8BWp5ECBYUpfj8JR_WDKqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
